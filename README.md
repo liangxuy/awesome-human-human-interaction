@@ -7,7 +7,7 @@ A curated list of awesome human-human interaction (HHI) resources. If you find a
 * [Papers](#recent-papers)
     * [HHI Generation](#hhi-generation)
     * [HHI Reconstruction](#hhi-reconstruction)
-    * [HHI Detection](#)
+    * [HHI Detection](#hhi-detection)
     * [Reaction Generation](#reaction-generation)
 
 ## Datasets
@@ -73,6 +73,6 @@ A curated list of awesome human-human interaction (HHI) resources. If you find a
 
 - **Role-aware Interaction Generation from Textual Description**, _ICCV'23_ [[Paper]](https://openaccess.thecvf.com/content/ICCV2023/html/Tanaka_Role-Aware_Interaction_Generation_from_Textual_Description_ICCV_2023_paper.html), [[Code]](https://github.com/line/Human-Interaction-Generation)
 
-- **ReMoS: 3D Motion-Conditioned Reaction Synthesis for Two-Person Interactions**, _arXiv 2023.11_ [[Paper]](https://arxiv.org/abs/2311.17057)
+- **ReMoS: 3D Motion-Conditioned Reaction Synthesis for Two-Person Interactions**, _arXiv 2023.11_ [[Paper]](https://arxiv.org/abs/2311.17057), [[Project]](https://vcai.mpi-inf.mpg.de/projects/remos/)
 
 - **Interaction transformer for human reaction generation**, _TMM'23_ [[Paper]](https://arxiv.org/abs/2207.01685)
