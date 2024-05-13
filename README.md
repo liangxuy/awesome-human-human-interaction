@@ -20,6 +20,7 @@ A curated list of awesome human-human interaction (HHI) resources. If you find a
 | [NTU RGB+D 120](https://rose1.ntu.edu.sg/dataset/actionRecognition/) | 2019 | 8,276 | 462K | No | RGB+D | Skeleton |
 | [Chi3D](https://ci3d.imar.ro/chi3d) | 2020 | 373 | 63K | No | MoCap | SMPL-X | 
 | [ExPI](https://team.inria.fr/robotlearn/research/expi-dataset/) | 2022 | 115 | 30K | No | Multi RGB | Skeleton |
+| [GTA Combat](https://liangxuy.github.io/actformer/) | 2023 | 6.8K | 2.05M | No | Synthetic | Skeleton | 
 | [Hi4D](https://yifeiyin04.github.io/Hi4D/) | 2023 | 100 | 11K | No | Multi RGB | SMPL |
 | [InterHuman](https://tr3e.github.io/intergen-page/) | 2023 | 6,022 | 1.7M | Yes | Multi RGB | SMPL |
 | [Inter-X](https://liangxuy.github.io/inter-x/) | 2024 | 11,388 | 8.1M | Yes | MoCap | SMPL-X, Skeleton |
@@ -40,8 +41,19 @@ A curated list of awesome human-human interaction (HHI) resources. If you find a
 
 - **PriorMDM: Human Motion Diffusion as a Generative Prior**, _ICLR'24_ [[Paper]](https://arxiv.org/abs/2303.01418), [[Project]](https://priormdm.github.io/priorMDM-page/), [[Code]](https://github.com/priorMDM/priorMDM)
 
+- **Neural Animation Layering for Synthesizing Martial Arts Movements**, _SIGGRAPH 2021_ [[Paper]](https://github.com/sebastianstarke/AI4Animation/blob/master/Media/SIGGRAPH_2021/Paper.pdf)
+
+- **Local Motion Phases for Learning Multi-Contact Character Movements**, _SIGGRAPH 2020_ [[Paper]](https://github.com/sebastianstarke/AI4Animation/blob/master/Media/SIGGRAPH_2020/Paper.pdf), [[Code]](https://github.com/sebastianstarke/AI4Animation/tree/master/AI4Animation/SIGGRAPH_2020)
+
 ### HHI Reconstruction
+
+- **Pose Priors from Language Models**, _arXiV 2024.05_ [[Paper]](https://arxiv.org/abs/2405.03689)
+
+- **MultiPhys: Multi-Person Physics-aware 3D Motion Estimation**, _CVPR'24_ [[Paper]](https://arxiv.org/abs/2404.11987), [[Project]](http://www.iri.upc.edu/people/nugrinovic/multiphys/), [[Code]](https://github.com/nicolasugrinovic/multiphys)
+
 - **Closely Interactive Human Reconstruction with Proxemics and Physics-Guided Adaption**, _CVPR'24_ [[Paper]](https://arxiv.org/abs/2404.11291), [[Code]](https://github.com/boycehbz/HumanInteraction)
+
+- **MultiPhys: Multi-Person Physics-aware 3D Motion Estimation**, _arXiv 2024.04_ [[Paper]](https://arxiv.org/abs/2404.11987), [[Project]](http://www.iri.upc.edu/people/nugrinovic/multiphys/), [[Code]](https://github.com/nicolasugrinovic/multiphys)
 
 - **Reconstructing Close Human Interactions from Multiple Views**, _SIGGRAPH Asia'23_ [[Paper]](https://arxiv.org/abs/2401.16173), [[Code]](https://github.com/zju3dv/CloseMoCap)
 
