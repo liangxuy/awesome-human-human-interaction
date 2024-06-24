@@ -47,6 +47,8 @@ A curated list of awesome human-human interaction (HHI) resources. If you find a
 
 ### HHI Reconstruction
 
+- **Capturing Closely Interacted Two-Person Motions with Reaction Priors**, _CVPR'24_ [[Paper]](https://netease-gameai.github.io/Dual-Human/static/assets/CVPR2024_DualHuman.pdf), [[Project]](https://netease-gameai.github.io/Dual-Human/)
+
 - **Pose Priors from Language Models**, _arXiV 2024.05_ [[Paper]](https://arxiv.org/abs/2405.03689)
 
 - **MultiPhys: Multi-Person Physics-aware 3D Motion Estimation**, _CVPR'24_ [[Paper]](https://arxiv.org/abs/2404.11987), [[Project]](http://www.iri.upc.edu/people/nugrinovic/multiphys/), [[Code]](https://github.com/nicolasugrinovic/multiphys)
