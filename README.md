@@ -24,6 +24,7 @@ A curated list of awesome human-human interaction (HHI) resources. If you find a
 | [Hi4D](https://yifeiyin04.github.io/Hi4D/) | 2023 | 100 | 11K | No | Multi RGB | SMPL |
 | [InterHuman](https://tr3e.github.io/intergen-page/) | 2023 | 6,022 | 1.7M | Yes | Multi RGB | SMPL |
 | [Inter-X](https://liangxuy.github.io/inter-x/) | 2024 | 11,388 | 8.1M | Yes | MoCap | SMPL-X, Skeleton |
+| [ReMoCap](https://vcai.mpi-inf.mpg.de/projects/remos/) | 2024 | 87 | 275.7K | No | Multi RGB | Skeleton |
 
 
 ## Recent Papers
@@ -31,6 +32,9 @@ A curated list of awesome human-human interaction (HHI) resources. If you find a
 <!-- ****, __ [[Paper]](), [[Project]](), [[Code]]() -->
 
 ### HHI Generation
+
+- **CORE4D: A 4D Human-Object-Human Interaction Dataset for Collaborative Object REarrangement**, _arxiv 2024.06_ [[Paper]](https://arxiv.org/abs/2406.19353), [[Project]](https://core4d.github.io/), [[Code]](https://github.com/leolyliu/CORE4D-Instructions)
+
 - **Inter-X: Towards Versatile Human-Human Interaction Analysis**, _CVPR'24_ [[Paper]](https://arxiv.org/abs/2312.16051), [[Project]](https://liangxuy.github.io/inter-x/), [[Code&Data]](https://github.com/liangxuy/Inter-X)
 
 - **ContactGen: Contact-Guided Interactive 3D Human Generation for Partners**, _AAAI'24_ [[Paper]](https://arxiv.org/abs/2401.17212), [[Project]](https://dongjunku.github.io/contactgen/), [[Code]](https://github.com/dongjunKu/ContactGen/)
@@ -44,6 +48,7 @@ A curated list of awesome human-human interaction (HHI) resources. If you find a
 - **Neural Animation Layering for Synthesizing Martial Arts Movements**, _SIGGRAPH 2021_ [[Paper]](https://github.com/sebastianstarke/AI4Animation/blob/master/Media/SIGGRAPH_2021/Paper.pdf)
 
 - **Local Motion Phases for Learning Multi-Contact Character Movements**, _SIGGRAPH 2020_ [[Paper]](https://github.com/sebastianstarke/AI4Animation/blob/master/Media/SIGGRAPH_2020/Paper.pdf), [[Code]](https://github.com/sebastianstarke/AI4Animation/tree/master/AI4Animation/SIGGRAPH_2020)
+
 
 ### HHI Reconstruction
 
@@ -66,6 +71,8 @@ A curated list of awesome human-human interaction (HHI) resources. If you find a
 
 ### HHI Detection
 
+- **Nonverbal Interaction Detection**, _ECCV'24_ [[Paper]](https://arxiv.org/abs/2407.08133), [[Code]](https://github.com/weijianan1/NVI)
+
 - **SportsHHI: A Dataset for Human-Human Interaction Detection in Sports Videos**, _CVPR'24_ [[Paper]](https://arxiv.org/abs/2404.04565), [[Code]](https://github.com/MCG-NJU/SportsHHI)
 
 - **Inter-X: Towards Versatile Human-Human Interaction Analysis**, _CVPR'24_ [[Paper]](https://arxiv.org/abs/2312.16051), [[Project]](https://liangxuy.github.io/inter-x/), [[Code&Data]](https://github.com/liangxuy/Inter-X)
@@ -87,6 +94,6 @@ A curated list of awesome human-human interaction (HHI) resources. If you find a
 
 - **Role-aware Interaction Generation from Textual Description**, _ICCV'23_ [[Paper]](https://openaccess.thecvf.com/content/ICCV2023/html/Tanaka_Role-Aware_Interaction_Generation_from_Textual_Description_ICCV_2023_paper.html), [[Code]](https://github.com/line/Human-Interaction-Generation)
 
-- **ReMoS: 3D Motion-Conditioned Reaction Synthesis for Two-Person Interactions**, _arXiv 2023.11_ [[Paper]](https://arxiv.org/abs/2311.17057), [[Project]](https://vcai.mpi-inf.mpg.de/projects/remos/)
+- **ReMoS: 3D Motion-Conditioned Reaction Synthesis for Two-Person Interactions**, _ECCV'24_ [[Paper]](https://arxiv.org/abs/2311.17057), [[Project]](https://vcai.mpi-inf.mpg.de/projects/remos/)
 
 - **Interaction transformer for human reaction generation**, _TMM'23_ [[Paper]](https://arxiv.org/abs/2207.01685)
