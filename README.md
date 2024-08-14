@@ -52,6 +52,8 @@ A curated list of awesome human-human interaction (HHI) resources. If you find a
 
 ### HHI Reconstruction
 
+- **AvatarPose: Avatar-guided 3D Pose Estimation of Close Human Interaction from Sparse Multi-view Videos**, _ECCV'24_ [[Paper]](https://arxiv.org/abs/2408.02110), [[Project]](https://feichilu.github.io/AvatarPose/)
+
 - **Capturing Closely Interacted Two-Person Motions with Reaction Priors**, _CVPR'24_ [[Paper]](https://netease-gameai.github.io/Dual-Human/static/assets/CVPR2024_DualHuman.pdf), [[Project]](https://netease-gameai.github.io/Dual-Human/)
 
 - **Pose Priors from Language Models**, _arXiV 2024.05_ [[Paper]](https://arxiv.org/abs/2405.03689)
