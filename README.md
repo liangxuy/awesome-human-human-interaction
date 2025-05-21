@@ -39,6 +39,8 @@ A curated list of awesome human-human interaction (HHI) resources. If you find a
 
 - **TIMotion: Temporal and Interactive Framework for Efficient Human-Human Motion Generation**, _CVPR'25_ [[Paper]](https://arxiv.org/abs/2408.17135), [[Project]](https://aigc-explorer.github.io/TIMotion-page/), [[Code]](https://github.com/AIGC-Explorer/TIMotion)
 
+- **MixerMDM: Learnable Composition of Human Motion Diffusion Models**, _CVPR'25_ [[Paper]](https://arxiv.org/abs/2504.01019), [[Project]](https://pabloruizponce.com/papers/MixerMDM), [[Code]](https://github.com/pabloruizponce/MixerMDM)
+
 - **Invisible Strings: Revealing Latent Dancer-to-Dancer Interactions with Graph Neural Networks**, _ICCC'25_ [[Paper]](https://arxiv.org/abs/2503.04816), [[Code]](https://github.com/humanai-foundation/ChoreoAI/tree/main/ChoreoAI_Duet_ChorAIgraphy_Luis_Zerkowski)
 
 - **Leader and Follower: Interactive Motion Generation under Trajectory Constraints**, _arXiv'25_ [[Paper]](https://arxiv.org/abs/2502.11563)
