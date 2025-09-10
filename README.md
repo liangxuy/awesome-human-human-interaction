@@ -9,6 +9,7 @@ A curated list of awesome human-human interaction (HHI) resources. If you find a
     * [HHI Reconstruction](#hhi-reconstruction)
     * [HHI Detection](#hhi-detection)
     * [Reaction Generation](#reaction-generation)
+    * [Group Interaction](#group-interaction)
 
 ## Datasets
 
@@ -32,6 +33,18 @@ A curated list of awesome human-human interaction (HHI) resources. If you find a
 <!-- ****, __ [[Paper]](), [[Project]](), [[Code]]() -->
 
 ### HHI Generation
+
+- **InterAct: A Large-Scale Dataset of Dynamic, Expressive and Interactive Activities between Two People in Daily Scenarios**, _SCA'25_ [[Paper]](https://arxiv.org/abs/2509.05747), [[Project]](https://hku-cg.github.io/interact/)
+
+- **Perceiving and Acting in First-Person: A Dataset and Benchmark for Egocentric Human-Object-Human Interactions**, _ICCV'25_ [[Paper]](https://arxiv.org/abs/2508.04681), [[Project]](https://liangxuy.github.io/InterVLA/)
+
+- **Towards Immersive Human-X Interaction: A Real-Time Framework for Physically Plausible Motion Synthesis**, _ICCV'25_ [[Paper]](https://arxiv.org/abs/2508.02106), [[Project]](https://humanx-interaction.github.io/)
+
+- **DuetGen: Music Driven Two-Person Dance Generation via Hierarchical Masked Modeling**, _SIGGRAPH'25_ [[Paper]](https://arxiv.org/abs/2506.18680), [[Project]](https://anindita127.github.io/DuetGen/), [[Code]](https://github.com/anindita127/DuetGen)
+
+- **PhysiInter: Integrating Physical Mapping for High-Fidelity Human Interaction Generation**, _arXiv'25_ [[Paper]](https://arxiv.org/abs/2506.07456)
+
+- **InterMamba: Efficient Human-Human Interaction Generation with Adaptive Spatio-Temporal Mamba**, _arXiv'25_ [[Paper]](https://arxiv.org/abs/2506.03084)
 
 - **Dyadic Mamba: Long-term Dyadic Human Motion Synthesis**, CVPRW'25_ [[Paper]](https://arxiv.org/abs/2505.09827)
 
@@ -78,6 +91,12 @@ A curated list of awesome human-human interaction (HHI) resources. If you find a
 
 ### Reaction Generation
 
+- **Real-time and Controllable Reactive Motion Synthesis via Intention Guidance**, _arXiv'25_ [[Paper]](https://www.arxiv.org/abs/2507.09704)
+
+- **MARRS: Masked Autoregressive Unit-based Reaction Synthesis**, _arXiv'25_ [[Paper]](https://arxiv.org/abs/2505.11334)
+
+- **E-React: Towards Emotionally Controlled Synthesis of Human Reactions**, _arXiv'25_ [[Paper]](https://arxiv.org/abs/2508.06093), [[Project]](https://ereact.github.io/)
+
 - **ReactDance: Progressive-Granular Representation for Long-Term Coherent Reactive Dance Generation**, _arXiv'25_ [[Paper]](https://arxiv.org/abs/2505.05589)
 
 - **HERO: Human Reaction Generation from Videos**, _arXiv'25_ [[Paper]](https://arxiv.org/pdf/2503.08270), [[Project]](https://jackyu6.github.io/HERO/)
@@ -100,8 +119,6 @@ A curated list of awesome human-human interaction (HHI) resources. If you find a
 
 - **ReGenNet: Towards Human Action-Reaction Synthesis**, _CVPR'24_ [[Paper]](https://arxiv.org/abs/2403.11882), [[Project]](https://liangxuy.github.io/ReGenNet/), [[Code]](https://github.com/liangxuy/ReGenNet)
 
-- **Interactive Humanoid: Online Full-Body Motion Reaction Synthesis with Social Affordance Canonicalization and Forecasting**, _arXiv 2023.12_ [[Paper]](https://arxiv.org/abs/2312.08983), [[Project]](https://yunzeliu.github.io/iHuman/)
-
 - **Role-aware Interaction Generation from Textual Description**, _ICCV'23_ [[Paper]](https://openaccess.thecvf.com/content/ICCV2023/html/Tanaka_Role-Aware_Interaction_Generation_from_Textual_Description_ICCV_2023_paper.html), [[Code]](https://github.com/line/Human-Interaction-Generation)
 
 - **ReMoS: 3D Motion-Conditioned Reaction Synthesis for Two-Person Interactions**, _ECCV'24_ [[Paper]](https://arxiv.org/abs/2311.17057), [[Project]](https://vcai.mpi-inf.mpg.de/projects/remos/)
@@ -110,6 +127,8 @@ A curated list of awesome human-human interaction (HHI) resources. If you find a
 
 
 ### HHI Reconstruction
+
+- **MAMMA: Markerless & Automatic Multi-Person Motion Action Capture**, _arXiv'25_ [[Paper]](https://arxiv.org/abs/2506.13040)
 
 - **Reconstructing Close Human Interaction with Appearance and Proxemics Reasoning**, _CVPR'25_ [[Paper]](https://www.buzhenhuang.com/publications/papers/CVPR2025-CloseApp.pdf)
 
@@ -145,3 +164,23 @@ A curated list of awesome human-human interaction (HHI) resources. If you find a
 - **IGFormer: Interaction Graph Transformer for Skeleton-based Human Interaction Recognition**, _ECCV'22_ [[Paper]](https://arxiv.org/abs/2207.12100)
 
 - **Human-to-Human Interaction Detection**, _arXiv 2023.07_ [[Paper]](https://arxiv.org/abs/2307.00464)
+
+
+### Group Interaction
+
+
+- **Large-Scale Multi-Character Interaction Synthesis**, _SIGGRAPH'25_ [[Paper]](https://arxiv.org/abs/2505.14087), [[Project]](https://hubertshum.com/pbl_siggraph2025interaction.htm)
+
+- **PINO: Person-Interaction Noise Optimization for Long-Duration and Customizable Motion Generation of Arbitrary-Sized Groups**, _ICCV'25_ [[Paper]](https://arxiv.org/abs/2507.19292), [[Project]](https://sinc865.github.io/pino/), [[Code]](https://github.com/sinc865/PINO)
+
+- **Multi-Person Interaction Generation from Two-Person Motion Priors**, _SIGGRAPH'25_ [[Paper]](https://arxiv.org/abs/2505.17860), [[Project]](https://wenningxu.github.io/multicharacter/), [[Code]](https://github.com/wenningxu/multi-person-interaction)
+
+- **SocialGen: Modeling Multi-Human Social Interaction with Language Models**, _arXiv'25_ [[Paper]](https://arxiv.org/abs/2503.22906), [[Project]](https://socialgenx.github.io/)
+
+- **Towards Open Domain Text-Driven Synthesis of  Multi-Person Motions**, _ECCV'24_ [[Paper]](https://arxiv.org/abs/2405.18483), [[Project]](https://shanmy.github.io/Multi-Motion/)
+
+- **Stochastic Multi-Person 3D Motion Forecasting**, _ICLR'23_ [[Paper]](https://arxiv.org/abs/2306.05421), [[Project]](https://sirui-xu.github.io/DuMMF/), [[Code]](https://github.com/Sirui-Xu/DuMMF)
+
+- **Joint-Relation Transformer for Multi-Person Motion Prediction**, _ICCV'23_ [[Paper]](https://arxiv.org/abs/2308.04808), [[Code]](https://github.com/MediaBrain-SJTU/JRTransformer)
+
+- **Music-Driven Group Choreography**, _CVPR'23_ [[Paper]](https://arxiv.org/abs/2303.12337), [[Project]](https://aioz-ai.github.io/AIOZ-GDANCE/)
