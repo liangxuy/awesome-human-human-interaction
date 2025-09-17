@@ -6,9 +6,10 @@ A curated list of awesome human-human interaction (HHI) resources. If you find a
 * [Datasets](#datasets)
 * [Papers](#recent-papers)
     * [HHI Generation](#hhi-generation)
+    * [Reaction Generation](#reaction-generation)
     * [HHI Reconstruction](#hhi-reconstruction)
     * [HHI Detection](#hhi-detection)
-    * [Reaction Generation](#reaction-generation)
+    * [HHI Datasets](#hhi-datasets)
     * [Group Interaction](#group-interaction)
 
 ## Datasets
@@ -166,8 +167,30 @@ A curated list of awesome human-human interaction (HHI) resources. If you find a
 - Human-to-Human Interaction Detection, _arXiv 2023.07_ [[Paper]](https://arxiv.org/abs/2307.00464)
 
 
-### Group Interaction
+### HHI Datasets
 
+- HHI-Assist: A Dataset and Benchmark of  Human-Human Interaction in Physical Assistance  Scenario, _RA-L'25_ [[Paper]](https://arxiv.org/abs/2509.10096), [[Project]](https://sites.google.com/view/hhi-assist/home), [[Code]](https://github.com/vita-epfl/HHI-Assist)
+
+- InterDance:Reactive 3D Dance Generation with Realistic Duet Interactions, _arXiv'25_ [[Paper]](https://arxiv.org/abs/2412.16982), [[Code]](https://inter-dance.github.io/)
+
+- Inter-X: Towards Versatile Human-Human Interaction Analysis, _CVPR'24_ [[Paper]](https://arxiv.org/abs/2312.16051), [[Project]](https://liangxuy.github.io/inter-x/), [[Code&Data]](https://github.com/liangxuy/Inter-X)
+
+- SportsHHI: A Dataset for Human-Human Interaction Detection in Sports Videos, _CVPR'24_ [[Paper]](https://arxiv.org/abs/2404.04565), [[Code]](https://github.com/MCG-NJU/SportsHHI)
+
+- ReMoS: 3D Motion-Conditioned Reaction Synthesis for Two-Person Interactions, _ECCV'24_ [[Paper]](https://arxiv.org/abs/2311.17057), [[Project]](https://vcai.mpi-inf.mpg.de/projects/remos/)
+
+- InterGen: Diffusion-based Multi-human Motion Generation under Complex Interactions, _IJCV'24_ [[Paper]](https://arxiv.org/abs/2304.05684), [[Project]](https://tr3e.github.io/intergen-page/), [[Code&Data]](https://drive.google.com/drive/folders/1oyozJ4E7Sqgsr7Q747Na35tWo5CjNYk3)
+
+- Hi4D: 4D Instance Segmentation of Close Human Interaction, _CVPR'23_ [[Paper]](https://arxiv.org/abs/2303.15380v1), [[Project]](https://yifeiyin04.github.io/Hi4D/), [[Code&Data]](https://github.com/yifeiyin04/Hi4D)
+
+- ActFormer: A GAN-based Transformer towards General Action-Conditioned 3D Human Motion Generation, _ICCV'23_ [[Paper]](https://arxiv.org/abs/2203.07706), [[Project]](https://liangxuy.github.io/actformer/), [[Code]](https://github.com/Szy-Young/actformer)
+
+- Multi-Person Extreme Motion Prediction, _CVPR'22_ [[Paper]](https://arxiv.org/abs/2105.08825), [[Project]](https://team.inria.fr/robotlearn/multi-person-extreme-motion-prediction/), [[Code]](https://github.com/GUO-W/MultiMotion)
+
+- Three-dimensional Reconstruction of Human Interactions, _CVPR'20_ [[Paper]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Fieraru_Three-Dimensional_Reconstruction_of_Human_Interactions_CVPR_2020_paper.pdf), [[Project]](https://ci3d.imar.ro/home)
+
+
+### Group Interaction
 
 - Large-Scale Multi-Character Interaction Synthesis, _SIGGRAPH'25_ [[Paper]](https://arxiv.org/abs/2505.14087), [[Project]](https://hubertshum.com/pbl_siggraph2025interaction.htm)
 
