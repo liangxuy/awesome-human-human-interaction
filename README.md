@@ -169,6 +169,8 @@ A curated list of awesome human-human interaction (HHI) resources. If you find a
 
 ### HHI Datasets
 
+- InterAct: A Large-Scale Dataset of Dynamic, Expressive and Interactive Activities between Two People in Daily Scenarios, _SCA'25_ [[Paper]](https://arxiv.org/abs/2509.05747), [[Project]](https://hku-cg.github.io/interact/)
+
 - HHI-Assist: A Dataset and Benchmark of  Human-Human Interaction in Physical Assistance  Scenario, _RA-L'25_ [[Paper]](https://arxiv.org/abs/2509.10096), [[Project]](https://sites.google.com/view/hhi-assist/home), [[Code]](https://github.com/vita-epfl/HHI-Assist)
 
 - InterDance:Reactive 3D Dance Generation with Realistic Duet Interactions, _arXiv'25_ [[Paper]](https://arxiv.org/abs/2412.16982), [[Code]](https://inter-dance.github.io/)
