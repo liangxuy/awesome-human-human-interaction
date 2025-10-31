@@ -11,6 +11,7 @@ A curated list of awesome human-human interaction (HHI) resources. If you find a
     * [HHI Detection](#hhi-detection)
     * [HHI Datasets](#hhi-datasets)
     * [Group Interaction](#group-interaction)
+    * [Interactive Humanoid](#interactive-humanoid)
 
 ## Datasets
 
@@ -35,7 +36,13 @@ A curated list of awesome human-human interaction (HHI) resources. If you find a
 
 ### HHI Generation
 
+- Disentangled Hierarchical VAE for 3D Human-Human Interaction Generation, _ICLR'26 Submission_ [[Paper]](https://openreview.net/attachment?id=53eIDko6N5&name=pdf)
+
+- CODA: Commonsense-Driven Autoregressive Human Interaction Generation, _ICLR'26 Submission_ [[Paper]](https://openreview.net/attachment?id=KH32pA5Mr5&name=pdf)
+
 - InterAct: A Large-Scale Dataset of Dynamic, Expressive and Interactive Activities between Two People in Daily Scenarios, _SCA'25_ [[Paper]](https://arxiv.org/abs/2509.05747), [[Project]](https://hku-cg.github.io/interact/)
+
+- Ponimator: Unfolding Interactive Pose for Versatile Human-Human Interaction Animation, _ICCV'25_ [[Paper]](https://arxiv.org/abs/2510.14976), [[Project]](https://stevenlsw.github.io/ponimator/), [[Code]](https://github.com/stevenlsw/ponimator)
 
 - Perceiving and Acting in First-Person: A Dataset and Benchmark for Egocentric Human-Object-Human Interactions, _ICCV'25_ [[Paper]](https://arxiv.org/abs/2508.04681), [[Project]](https://liangxuy.github.io/InterVLA/)
 
@@ -209,3 +216,8 @@ A curated list of awesome human-human interaction (HHI) resources. If you find a
 - Joint-Relation Transformer for Multi-Person Motion Prediction, _ICCV'23_ [[Paper]](https://arxiv.org/abs/2308.04808), [[Code]](https://github.com/MediaBrain-SJTU/JRTransformer)
 
 - Music-Driven Group Choreography, _CVPR'23_ [[Paper]](https://arxiv.org/abs/2303.12337), [[Project]](https://aioz-ai.github.io/AIOZ-GDANCE/)
+
+
+### Interactive Humanoid
+
+- It Takes Two: Learning Interactive Whole-Body Control Between Humanoid Robots, _arXiv'25_ [[Paper]](https://arxiv.org/abs/2510.10206), [[Code]](https://github.com/ZuhongLIU/Harmanoid)
