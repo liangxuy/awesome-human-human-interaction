@@ -36,6 +36,9 @@ A curated list of awesome human-human interaction (HHI) resources. If you find a
 
 ### HHI Generation
 
+- InterMoE: Individual-Specific 3D Human Interaction Generation via Dynamic
+Temporal-Selective MoE, _AAAI'26_ [[Paper]](https://arxiv.org/abs/2511.13488), [[Code]](https://github.com/Lighten001/InterMoE)
+
 - Disentangled Hierarchical VAE for 3D Human-Human Interaction Generation, _ICLR'26 Submission_ [[Paper]](https://openreview.net/attachment?id=53eIDko6N5&name=pdf)
 
 - CODA: Commonsense-Driven Autoregressive Human Interaction Generation, _ICLR'26 Submission_ [[Paper]](https://openreview.net/attachment?id=KH32pA5Mr5&name=pdf)
