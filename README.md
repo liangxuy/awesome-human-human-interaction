@@ -29,6 +29,7 @@ A curated list of awesome human-human interaction (HHI) resources. If you find a
 | [Inter-X](https://liangxuy.github.io/inter-x/) | 2024 | 11,388 | 8.1M | Yes | MoCap | SMPL-X, Skeleton |
 | [ReMoCap](https://vcai.mpi-inf.mpg.de/projects/remos/) | 2024 | 87 | 275.7K | No | Multi RGB | Skeleton |
 | [InterDance](https://inter-dance.github.io/) | 2025 | - | 3.93hours | No | MoCap | SMPL-X |
+| [Embody 3D](https://www.meta.com/emerging-tech/codec-avatars/embody-3d/) | 2025 | - | 500hours | Yes | Multi RGB | SMPL-X |
 
 ## Recent Papers
 
@@ -43,6 +44,9 @@ Temporal-Selective MoE, _AAAI'26_ [[Paper]](https://arxiv.org/abs/2511.13488), [
 
 - CODA: Commonsense-Driven Autoregressive Human Interaction Generation, _ICLR'26 Submission_ [[Paper]](https://openreview.net/attachment?id=KH32pA5Mr5&name=pdf)
 
+- Fine-grained text-driven dual-human motion
+generation via dynamic hierarchical interaction, _arXiv'25_ [[Paper]](https://arxiv.org/abs/2510.08260)
+
 - InterAct: A Large-Scale Dataset of Dynamic, Expressive and Interactive Activities between Two People in Daily Scenarios, _SCA'25_ [[Paper]](https://arxiv.org/abs/2509.05747), [[Project]](https://hku-cg.github.io/interact/)
 
 - Ponimator: Unfolding Interactive Pose for Versatile Human-Human Interaction Animation, _ICCV'25_ [[Paper]](https://arxiv.org/abs/2510.14976), [[Project]](https://stevenlsw.github.io/ponimator/), [[Code]](https://github.com/stevenlsw/ponimator)
@@ -50,6 +54,8 @@ Temporal-Selective MoE, _AAAI'26_ [[Paper]](https://arxiv.org/abs/2511.13488), [
 - Perceiving and Acting in First-Person: A Dataset and Benchmark for Egocentric Human-Object-Human Interactions, _ICCV'25_ [[Paper]](https://arxiv.org/abs/2508.04681), [[Project]](https://liangxuy.github.io/InterVLA/)
 
 - Towards Immersive Human-X Interaction: A Real-Time Framework for Physically Plausible Motion Synthesis, _ICCV'25_ [[Paper]](https://arxiv.org/abs/2508.02106), [[Project]](https://humanx-interaction.github.io/)
+
+- MDD: A Dataset for Text-and-Music Conditioned Duet Dance Generation, _ICCV'25_ [[Paper]](https://arxiv.org/abs/2508.16911), [[Project]](https://gprerit96.github.io/mdd-page/)
 
 - DuetGen: Music Driven Two-Person Dance Generation via Hierarchical Masked Modeling, _SIGGRAPH'25_ [[Paper]](https://arxiv.org/abs/2506.18680), [[Project]](https://anindita127.github.io/DuetGen/), [[Code]](https://github.com/anindita127/DuetGen)
 
@@ -101,6 +107,11 @@ Temporal-Selective MoE, _AAAI'26_ [[Paper]](https://arxiv.org/abs/2511.13488), [
 
 
 ### Reaction Generation
+
+- MoReact: Generating Reactive Motion
+from Textual Descriptions, _arXiv'25_ [[Paper]](https://arxiv.org/abs/2509.23911)
+
+- Reactffusion: Physical Contact-guided Diffusion Model for Reaction Generation, _arXiv'25_ [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3746027.3755058)
 
 - Real-time and Controllable Reactive Motion Synthesis via Intention Guidance, _arXiv'25_ [[Paper]](https://www.arxiv.org/abs/2507.09704)
 
@@ -222,5 +233,7 @@ Temporal-Selective MoE, _AAAI'26_ [[Paper]](https://arxiv.org/abs/2511.13488), [
 
 
 ### Interactive Humanoid
+
+- SymBridge: A Human-in-the-Loop Cyber-Physical Interactive System for Adaptive Human-Robot Symbiosis, _arXiv'25_ [[Paper]](https://arxiv.org/abs/2502.07358)
 
 - It Takes Two: Learning Interactive Whole-Body Control Between Humanoid Robots, _arXiv'25_ [[Paper]](https://arxiv.org/abs/2510.10206), [[Code]](https://github.com/ZuhongLIU/Harmanoid)
