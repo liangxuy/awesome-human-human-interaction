@@ -99,6 +99,8 @@ generation via dynamic hierarchical interaction, _arXiv'25_ [[Paper]](https://ar
 
 - ActFormer: A GAN-based Transformer towards General Action-Conditioned 3D Human Motion Generation, _ICCV'23_ [[Paper]](https://arxiv.org/abs/2203.07706), [[Project]](https://liangxuy.github.io/actformer/), [[Code]](https://github.com/Szy-Young/actformer)
 
+- Duolando: Follower GPT with Off-Policy Reinforcement Learning to Dance Accompaniment, _ICLR'24_ [[Paper]](https://arxiv.org/abs/2403.18811), [[Project]](https://lisiyao21.github.io/projects/Duolando/), [[Code]](https://github.com/lisiyao21/Duolando), [[Data]](https://drive.google.com/file/d/1sWc1MeRhRa9LoxarsJVFvt5vxsRk-F_M/view)
+
 - PriorMDM: Human Motion Diffusion as a Generative Prior, _ICLR'24_ [[Paper]](https://arxiv.org/abs/2303.01418), [[Project]](https://priormdm.github.io/priorMDM-page/), [[Code]](https://github.com/priorMDM/priorMDM)
 
 - Neural Animation Layering for Synthesizing Martial Arts Movements, _SIGGRAPH'21_ [[Paper]](https://github.com/sebastianstarke/AI4Animation/blob/master/Media/SIGGRAPH_2021/Paper.pdf)
