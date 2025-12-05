@@ -110,6 +110,10 @@ generation via dynamic hierarchical interaction, _arXiv'25_ [[Paper]](https://ar
 
 ### Reaction Generation
 
+- ReactionMamba: Generating Short & Long Human Reaction Sequences, _arXiv'25_ [[Paper]](https://arxiv.org/abs/2512.00208)
+
+- Uni-Inter: Unifying 3D Human Motion Synthesis Across Diverse Interaction Contexts, _arXiv'25_ [[Paper]](https://arxiv.org/abs/2511.13032)
+
 - MoReact: Generating Reactive Motion
 from Textual Descriptions, _arXiv'25_ [[Paper]](https://arxiv.org/abs/2509.23911)
 
