@@ -37,6 +37,8 @@ A curated list of awesome human-human interaction (HHI) resources. If you find a
 
 ### HHI Generation
 
+- Diffusion Forcing for Multi-Agent Interaction Sequence Modeling, _arXiv'25_ [[Paper]](https://arxiv.org/abs/2512.17900), [[Code]](https://von31.github.io/MAGNet/)
+
 - InterMoE: Individual-Specific 3D Human Interaction Generation via Dynamic
 Temporal-Selective MoE, _AAAI'26_ [[Paper]](https://arxiv.org/abs/2511.13488), [[Code]](https://github.com/Lighten001/InterMoE)
 
@@ -109,6 +111,8 @@ generation via dynamic hierarchical interaction, _arXiv'25_ [[Paper]](https://ar
 
 
 ### Reaction Generation
+
+- ARMFlow: AutoRegressive MeanFlow for Online 3D Human Reaction Generation, _arXiv'25_ [[Paper]](https://arxiv.org/abs/2512.16234)
 
 - ReactionMamba: Generating Short & Long Human Reaction Sequences, _arXiv'25_ [[Paper]](https://arxiv.org/abs/2512.00208)
 
