@@ -12,6 +12,7 @@ A curated list of awesome human-human interaction (HHI) resources. If you find a
     * [HHI Datasets](#hhi-datasets)
     * [Group Interaction](#group-interaction)
     * [Interactive Humanoid](#interactive-humanoid)
+    * [Other Applications](#other-applications)
 
 ## Datasets
 
@@ -36,6 +37,12 @@ A curated list of awesome human-human interaction (HHI) resources. If you find a
 <!-- , __ [[Paper]](), [[Project]](), [[Code]]() -->
 
 ### HHI Generation
+
+- Stability-Driven Motion Generation for Object-Guided Human-Human Co-Manipulation, _arXiv'26_, [[Paper]](https://www.buzhenhuang.com/publications/papers/Xu_CVPR2026.pdf), [[Project]](https://github.com/boycehbz/StaCOM)
+
+- HINT: Hierarchical Interaction Modeling for Autoregressive Multi-Human Motion Generation, _arXiv'26_, [[Paper]](https://arxiv.org/pdf/2601.20383)
+
+- Interact2Ar: Full-Body Human-Human Interaction Generation via Autoregressive Diffusion Models, _CVPR'26_, [[Paper]](https://arxiv.org/abs/2512.19692), [[Project]](https://www.pabloruizponce.com/papers/Interact2Ar)
 
 - Diffusion Forcing for Multi-Agent Interaction Sequence Modeling, _arXiv'25_ [[Paper]](https://arxiv.org/abs/2512.17900), [[Code]](https://von31.github.io/MAGNet/)
 
@@ -77,7 +84,7 @@ generation via dynamic hierarchical interaction, _arXiv'25_ [[Paper]](https://ar
 
 - Leader and Follower: Interactive Motion Generation under Trajectory Constraints, _arXiv'25_ [[Paper]](https://arxiv.org/abs/2502.11563)
 
-- InterDance:Reactive 3D Dance Generation with Realistic Duet Interactions, _arXiv'25_ [[Paper]](https://arxiv.org/abs/2412.16982), [[Code]](https://inter-dance.github.io/)
+- InterDance: Reactive 3D Dance Generation with Realistic Duet Interactions, _arXiv'25_ [[Paper]](https://arxiv.org/abs/2412.16982), [[Code]](https://inter-dance.github.io/)
 
 - Two-in-One: Unified Multi-Person Interactive Motion Generation by Latent Diffusion Transformer, _arXiv'25_ [[Paper]](https://arxiv.org/abs/2412.16670)
 
@@ -91,7 +98,7 @@ generation via dynamic hierarchical interaction, _arXiv'25_ [[Paper]](https://ar
 
 - in2IN: Leveraging individual Information to Generate Human INteractions, _CVPRW'24_ [[Paper]](https://arxiv.org/abs/2404.09988), [[Project]](https://pabloruizponce.github.io/in2IN/), [[Code]](https://github.com/pabloruizponce/in2IN)
 
-- CORE4D: A 4D Human-Object-Human Interaction Dataset for Collaborative Object REarrangement, _arxiv 2024.06_ [[Paper]](https://arxiv.org/abs/2406.19353), [[Project]](https://core4d.github.io/), [[Code]](https://github.com/leolyliu/CORE4D-Instructions)
+- CORE4D: A 4D Human-Object-Human Interaction Dataset for Collaborative Object REarrangement, _arXiv 2024.06_ [[Paper]](https://arxiv.org/abs/2406.19353), [[Project]](https://core4d.github.io/), [[Code]](https://github.com/leolyliu/CORE4D-Instructions)
 
 - Inter-X: Towards Versatile Human-Human Interaction Analysis, _CVPR'24_ [[Paper]](https://arxiv.org/abs/2312.16051), [[Project]](https://liangxuy.github.io/inter-x/), [[Code&Data]](https://github.com/liangxuy/Inter-X)
 
@@ -111,6 +118,10 @@ generation via dynamic hierarchical interaction, _arXiv'25_ [[Paper]](https://ar
 
 
 ### Reaction Generation
+
+- ReMoGen: Real-time Human Interaction-to-Reaction Generation via Modular Learning from Diverse Data, _CVPR'26_, [[Paper]](https://arxiv.org/abs/2604.01082), [[Project]](https://4dvlab.github.io/project_page/remogen/)
+
+- ReactMotion: Generating Reactive Listener Motions from Speaker Utterance, _arXiv'26_, [[Paper]](https://arxiv.org/abs/2603.15083), [[Project]](https://reactmotion.github.io/)
 
 - ARMFlow: AutoRegressive MeanFlow for Online 3D Human Reaction Generation, _arXiv'25_ [[Paper]](https://arxiv.org/abs/2512.16234)
 
@@ -170,7 +181,7 @@ from Textual Descriptions, _arXiv'25_ [[Paper]](https://arxiv.org/abs/2509.23911
 
 - Capturing Closely Interacted Two-Person Motions with Reaction Priors, _CVPR'24_ [[Paper]](https://netease-gameai.github.io/Dual-Human/static/assets/CVPR2024_DualHuman.pdf), [[Project]](https://netease-gameai.github.io/Dual-Human/)
 
-- Pose Priors from Language Models, _arXiV 2024.05_ [[Paper]](https://arxiv.org/abs/2405.03689)
+- Pose Priors from Language Models, _arXiv 2024.05_ [[Paper]](https://arxiv.org/abs/2405.03689)
 
 - MultiPhys: Multi-Person Physics-aware 3D Motion Estimation, _CVPR'24_ [[Paper]](https://arxiv.org/abs/2404.11987), [[Project]](http://www.iri.upc.edu/people/nugrinovic/multiphys/), [[Code]](https://github.com/nicolasugrinovic/multiphys)
 
@@ -187,7 +198,9 @@ from Textual Descriptions, _arXiv'25_ [[Paper]](https://arxiv.org/abs/2509.23911
 
 ### HHI Detection
 
-- Nonverbal Interaction Detection, _ECCV'24_ [[Paper]](https://arxiv.org/abs/2407.08133), [[Code]](https://github.com/weijianan1/NVI)
+- Multiple Human Motion Understanding, _AAAI'26_, [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/37556)
+
+- Nonverbal Interaction Detection, _ECCV'24_, [[Paper]](https://arxiv.org/abs/2407.08133), [[Code]](https://github.com/weijianan1/NVI)
 
 - SportsHHI: A Dataset for Human-Human Interaction Detection in Sports Videos, _CVPR'24_ [[Paper]](https://arxiv.org/abs/2404.04565), [[Code]](https://github.com/MCG-NJU/SportsHHI)
 
@@ -202,9 +215,9 @@ from Textual Descriptions, _arXiv'25_ [[Paper]](https://arxiv.org/abs/2509.23911
 
 - InterAct: A Large-Scale Dataset of Dynamic, Expressive and Interactive Activities between Two People in Daily Scenarios, _SCA'25_ [[Paper]](https://arxiv.org/abs/2509.05747), [[Project]](https://hku-cg.github.io/interact/)
 
-- HHI-Assist: A Dataset and Benchmark of  Human-Human Interaction in Physical Assistance  Scenario, _RA-L'25_ [[Paper]](https://arxiv.org/abs/2509.10096), [[Project]](https://sites.google.com/view/hhi-assist/home), [[Code]](https://github.com/vita-epfl/HHI-Assist)
+- HHI-Assist: A Dataset and Benchmark of Human-Human Interaction in Physical Assistance Scenario, _RA-L'25_ [[Paper]](https://arxiv.org/abs/2509.10096), [[Project]](https://sites.google.com/view/hhi-assist/home), [[Code]](https://github.com/vita-epfl/HHI-Assist)
 
-- InterDance:Reactive 3D Dance Generation with Realistic Duet Interactions, _arXiv'25_ [[Paper]](https://arxiv.org/abs/2412.16982), [[Code]](https://inter-dance.github.io/)
+- InterDance: Reactive 3D Dance Generation with Realistic Duet Interactions, _arXiv'25_ [[Paper]](https://arxiv.org/abs/2412.16982), [[Code]](https://inter-dance.github.io/)
 
 - Inter-X: Towards Versatile Human-Human Interaction Analysis, _CVPR'24_ [[Paper]](https://arxiv.org/abs/2312.16051), [[Project]](https://liangxuy.github.io/inter-x/), [[Code&Data]](https://github.com/liangxuy/Inter-X)
 
@@ -225,6 +238,8 @@ from Textual Descriptions, _arXiv'25_ [[Paper]](https://arxiv.org/abs/2509.23911
 
 ### Group Interaction
 
+- Unified Number-Free Text-to-Motion Generation Via Flow Matching, _CVPR'26_, [[Paper]](https://arxiv.org/abs/2603.27040), [[Project]](https://githubhgh.github.io/umf/)
+
 - Large-Scale Multi-Character Interaction Synthesis, _SIGGRAPH'25_ [[Paper]](https://arxiv.org/abs/2505.14087), [[Project]](https://hubertshum.com/pbl_siggraph2025interaction.htm)
 
 - PINO: Person-Interaction Noise Optimization for Long-Duration and Customizable Motion Generation of Arbitrary-Sized Groups, _ICCV'25_ [[Paper]](https://arxiv.org/abs/2507.19292), [[Project]](https://sinc865.github.io/pino/), [[Code]](https://github.com/sinc865/PINO)
@@ -233,7 +248,7 @@ from Textual Descriptions, _arXiv'25_ [[Paper]](https://arxiv.org/abs/2509.23911
 
 - SocialGen: Modeling Multi-Human Social Interaction with Language Models, _arXiv'25_ [[Paper]](https://arxiv.org/abs/2503.22906), [[Project]](https://socialgenx.github.io/)
 
-- Towards Open Domain Text-Driven Synthesis of  Multi-Person Motions, _ECCV'24_ [[Paper]](https://arxiv.org/abs/2405.18483), [[Project]](https://shanmy.github.io/Multi-Motion/)
+- Towards Open Domain Text-Driven Synthesis of Multi-Person Motions, _ECCV'24_ [[Paper]](https://arxiv.org/abs/2405.18483), [[Project]](https://shanmy.github.io/Multi-Motion/)
 
 - Stochastic Multi-Person 3D Motion Forecasting, _ICLR'23_ [[Paper]](https://arxiv.org/abs/2306.05421), [[Project]](https://sirui-xu.github.io/DuMMF/), [[Code]](https://github.com/Sirui-Xu/DuMMF)
 
@@ -244,6 +259,15 @@ from Textual Descriptions, _arXiv'25_ [[Paper]](https://arxiv.org/abs/2509.23911
 
 ### Interactive Humanoid
 
+- Learning Whole-Body Human-Humanoid Interaction from Human-Human Demonstrations, _arXiv'25_, [[Paper]](https://arxiv.org/pdf/2601.09518)
+
 - SymBridge: A Human-in-the-Loop Cyber-Physical Interactive System for Adaptive Human-Robot Symbiosis, _arXiv'25_ [[Paper]](https://arxiv.org/abs/2502.07358)
 
 - It Takes Two: Learning Interactive Whole-Body Control Between Humanoid Robots, _arXiv'25_ [[Paper]](https://arxiv.org/abs/2510.10206), [[Code]](https://github.com/ZuhongLIU/Harmanoid)
+
+
+
+### Other Applications
+
+
+- InterEdit: Navigating Text-Guided Multi-Human 3D Motion Editing, _arXiv'26_ [[Paper]](https://arxiv.org/abs/2603.13082), [[Code]](https://github.com/YNG916/InterEdit)
