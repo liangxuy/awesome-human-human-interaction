@@ -121,6 +121,8 @@ generation via dynamic hierarchical interaction, _arXiv'25_ [[Paper]](https://ar
 
 - ReMoGen: Real-time Human Interaction-to-Reaction Generation via Modular Learning from Diverse Data, _CVPR'26_, [[Paper]](https://arxiv.org/abs/2604.01082), [[Project]](https://4dvlab.github.io/project_page/remogen/)
 
+- EgoReAct: Egocentric Video-Driven 3D Human Reaction Generation, _arXiv'25_, [[Paper]](https://arxiv.org/abs/2512.22808), [[Project]](https://frank-zy-dou.github.io/projects/EgoReAct/index.html)
+
 - ReactMotion: Generating Reactive Listener Motions from Speaker Utterance, _arXiv'26_, [[Paper]](https://arxiv.org/abs/2603.15083), [[Project]](https://reactmotion.github.io/)
 
 - ARMFlow: AutoRegressive MeanFlow for Online 3D Human Reaction Generation, _arXiv'25_ [[Paper]](https://arxiv.org/abs/2512.16234)
