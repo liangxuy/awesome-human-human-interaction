@@ -189,8 +189,6 @@ from Textual Descriptions, _arXiv'25_ [[Paper]](https://arxiv.org/abs/2509.23911
 
 - Closely Interactive Human Reconstruction with Proxemics and Physics-Guided Adaption, _CVPR'24_ [[Paper]](https://arxiv.org/abs/2404.11291), [[Code]](https://github.com/boycehbz/HumanInteraction)
 
-- MultiPhys: Multi-Person Physics-aware 3D Motion Estimation, _arXiv 2024.04_ [[Paper]](https://arxiv.org/abs/2404.11987), [[Project]](http://www.iri.upc.edu/people/nugrinovic/multiphys/), [[Code]](https://github.com/nicolasugrinovic/multiphys)
-
 - Reconstructing Close Human Interactions from Multiple Views, _SIGGRAPH Asia'23_ [[Paper]](https://arxiv.org/abs/2401.16173), [[Code]](https://github.com/zju3dv/CloseMoCap)
 
 - Hi4D: 4D Instance Segmentation of Close Human Interaction, _CVPR'23_ [[Paper]](https://arxiv.org/abs/2303.15380v1), [[Project]](https://yifeiyin04.github.io/Hi4D/), [[Code&Data]](https://github.com/yifeiyin04/Hi4D)
