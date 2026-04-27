@@ -173,7 +173,7 @@ from Textual Descriptions, _arXiv'25_ [[Paper]](https://arxiv.org/abs/2509.23911
 
 ### HHI Reconstruction
 
-- MAMMA: Markerless & Automatic Multi-Person Motion Action Capture, _arXiv'25_ [[Paper]](https://arxiv.org/abs/2506.13040)
+- MAMMA: Markerless & Automatic Multi-Person Motion Action Capture, _CVPR'26_ [[Paper]](https://arxiv.org/abs/2506.13040)
 
 - Reconstructing Close Human Interaction with Appearance and Proxemics Reasoning, _CVPR'25_ [[Paper]](https://www.buzhenhuang.com/publications/papers/CVPR2025-CloseApp.pdf)
 
