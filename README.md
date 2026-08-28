@@ -40,6 +40,8 @@ A curated list of awesome human-human interaction (HHI) resources. If you find a
 
 ### HHI Generation
 
+- Inter-X++: A Comprehensive Benchmark for Multimodal Human-Human Interaction Analysis, _arXiv'26_, [[Paper]](https://arxiv.org/abs/2608.20312)
+
 - MIME: Multimodal Interactive Motion Encoder, _arXiv'26_, [[Paper]](https://arxiv.org/abs/2607.22702)
 
 - GNOCHI: Generative Neural mOdel for Close Human-Human Interactions, _SCA'26_, [[Paper]](https://arxiv.org/abs/2607.10408)
